@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/zitwebsite/static/css/main.6ccc0442.chunk.css",
+    "main.js": "/zitwebsite/static/js/main.956a0b06.chunk.js",
+    "main.js.map": "/zitwebsite/static/js/main.956a0b06.chunk.js.map",
+    "runtime-main.js": "/zitwebsite/static/js/runtime-main.b1647e84.js",
+    "runtime-main.js.map": "/zitwebsite/static/js/runtime-main.b1647e84.js.map",
+    "static/css/2.3a9a1458.chunk.css": "/zitwebsite/static/css/2.3a9a1458.chunk.css",
+    "static/js/2.77fbb3d0.chunk.js": "/zitwebsite/static/js/2.77fbb3d0.chunk.js",
+    "static/js/2.77fbb3d0.chunk.js.map": "/zitwebsite/static/js/2.77fbb3d0.chunk.js.map",
+    "index.html": "/zitwebsite/index.html",
+    "precache-manifest.5e2a89b86fa9caef79ca1664a0b6bef4.js": "/zitwebsite/precache-manifest.5e2a89b86fa9caef79ca1664a0b6bef4.js",
+    "service-worker.js": "/zitwebsite/service-worker.js",
+    "static/css/2.3a9a1458.chunk.css.map": "/zitwebsite/static/css/2.3a9a1458.chunk.css.map",
+    "static/css/main.6ccc0442.chunk.css.map": "/zitwebsite/static/css/main.6ccc0442.chunk.css.map",
+    "static/js/2.77fbb3d0.chunk.js.LICENSE.txt": "/zitwebsite/static/js/2.77fbb3d0.chunk.js.LICENSE.txt",
+    "static/media/Raaj.png": "/zitwebsite/static/media/Raaj.588bbe79.png",
+    "static/media/Sangili.png": "/zitwebsite/static/media/Sangili.1d6a445b.png",
+    "static/media/Zit Logo.png": "/zitwebsite/static/media/Zit Logo.6553e594.png",
+    "static/media/Zit.mp4": "/zitwebsite/static/media/Zit.444c6268.mp4",
+    "static/media/App.css": "/zitwebsite/static/media/Zit_Banner_Logo.a034d70e.jpg",
+    "static/media/Zit_banner_Square.png": "/zitwebsite/static/media/Zit_banner_Square.8df1865b.png",
+    "static/media/ajay.png": "/zitwebsite/static/media/ajay.48e5843e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1647e84.js",
+    "static/css/2.3a9a1458.chunk.css",
+    "static/js/2.77fbb3d0.chunk.js",
+    "static/css/main.6ccc0442.chunk.css",
+    "static/js/main.956a0b06.chunk.js"
+  ]
+}
